@@ -1,8 +1,6 @@
 
 A **scalable E-Commerce Android application** built using **Clean Architecture principles**, adhering to the **SOLID design principles**, and structured with a **module-based architecture**. This app supports both **online and offline** shopping experiences, ensuring smooth functionality regardless of network conditions.
 
----
-
 ## 🚀 Key Features
 
 - **Clean Architecture** – Separation of concerns across layers: Presentation, Domain, and Data.
